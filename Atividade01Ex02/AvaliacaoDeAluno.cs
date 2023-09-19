@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Atividade01Ex02
+namespace Atividade04Ex02
 {
     public class AvaliacaoDeAluno
     {

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lucas Torres\\source\\repos\\TPTE#04\\Atividade01Ex02\\Atividade04Ex02.csproj",
-      "projectName": "Atividade04Ex02",
-      "projectPath": "C:\\Users\\Lucas Torres\\source\\repos\\TPTE#04\\Atividade01Ex02\\Atividade04Ex02.csproj",
+      "projectUniqueName": "C:\\Users\\Lucas Torres\\source\\repos\\TPTE#04\\Atividadeo4Ex05\\Atividadeo04Ex05.csproj",
+      "projectName": "Atividadeo04Ex05",
+      "projectPath": "C:\\Users\\Lucas Torres\\source\\repos\\TPTE#04\\Atividadeo4Ex05\\Atividadeo04Ex05.csproj",
       "packagesPath": "C:\\Users\\Lucas Torres\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lucas Torres\\source\\repos\\TPTE#04\\Atividade01Ex02\\obj\\",
+      "outputPath": "C:\\Users\\Lucas Torres\\source\\repos\\TPTE#04\\Atividadeo4Ex05\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
